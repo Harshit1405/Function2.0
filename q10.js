@@ -17,7 +17,7 @@ function findSecondLargest(arr) {
             secondLargest = num;
         }
     }
-
+/**hii */
     return secondLargest === -Infinity ? null : secondLargest;
 
 
